@@ -1,0 +1,14 @@
+{
+    "name": "wxmp",
+    "version": "1.0.0",
+    "description": "小程序脚手架",
+    "main": ".eslintrc.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "switch:dev": "node switch.js --dev",
+        "switch:test": "node switch.js --test",
+        "switch:prod": "node switch.js --prod"
+    },
+    "author": "",
+    "license": "ISC"
+}
